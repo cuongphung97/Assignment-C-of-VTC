@@ -709,3 +709,6 @@ int main()
     free(lich);
     return 0;
 }
+
+printf("Khong co chuc nang nay. Moi ban nhap lai.\n");
+printf("\nKet thuc chuong trinh ...\n");
